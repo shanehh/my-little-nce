@@ -15,3 +15,4 @@ More information: https://www.mkdocs.org.
   - https://github.com/goldfire/howler.js
   - https://github.com/katspaugh/wavesurfer.js
 - markdown formatter: https://github.com/executablebooks/mdformat
+- deploy settings: https://www.starfallprojects.co.uk/projects/deploy-host-docs/deploy-mkdocs-material-netlify/#site-setup
