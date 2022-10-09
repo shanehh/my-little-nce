@@ -1,0 +1,5 @@
+site_name: 新概念英语
+theme:
+  name: material
+extra_javascript:
+  - javascripts/extra.js
